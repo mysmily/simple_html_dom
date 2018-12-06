@@ -1,0 +1,11 @@
+{
+    "name": "mysmily/simple_html_dom",
+    "description": "simple_html_dom",
+    "authors": [
+        {
+            "name": "mysmily",
+            "email": "danced@mysmily.cn"
+        }
+    ],
+    "require": {}
+}
